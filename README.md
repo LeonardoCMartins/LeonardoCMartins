@@ -12,6 +12,8 @@
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=LeonardoCMartins&theme=dracula" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LeonardoCMartins&show_icons=true&theme=dracula&layout=compact" />
 </div>
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -39,7 +41,8 @@
 
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
 
 
 ## Contacts:
@@ -48,9 +51,7 @@
 <a href="https://www.instagram.com/leo.cmartins1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.leonardocmartins21@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-&nbsp;
-&nbsp;
+
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
