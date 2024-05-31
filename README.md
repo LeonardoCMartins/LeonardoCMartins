@@ -8,7 +8,7 @@
 
 <p align="center">🚀 Always eager to learn and collaborate</p>&nbsp;
 
-<div  align="center" style="margin-bottom:60px">
+<div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=LeonardoCMartins&theme=dracula" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LeonardoCMartins&show_icons=true&theme=dracula&layout=compact" />
 </div>
@@ -41,6 +41,7 @@
 &nbsp;
 
 
+
 ## Contacts:
 
 <div> 
@@ -48,7 +49,8 @@
 </a>
 <a href = "mailto:contato.leonardocmartins21@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-
+&nbsp;
+&nbsp;
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
