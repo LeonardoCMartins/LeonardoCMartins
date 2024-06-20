@@ -4,7 +4,7 @@
 <p align="center"> 
 👋 Hi there! I'm a Computer Science student passionate about solving complex problems through technology. I enjoy balancing technical and managerial skills to create impactful solution</p>
 
-<p align="center">💻 Proficient in HTML, CSS, JavaScript, Tailwind, and Java. Currently studying React and MySQL.</p>
+<p align="center">💻 Proficient in HTML, CSS, JavaScript, Tailwind, and Java. Currently studying React and SpringBoot.</p>
 
 <p align="center">🚀 Always eager to learn and collaborate</p>&nbsp;
 
