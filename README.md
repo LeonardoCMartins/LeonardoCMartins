@@ -3,7 +3,7 @@
 &nbsp;
 <p align="center"> 👋 Computer Science student passionate about solving complex problems through technology. I enjoy balancing technical and managerial skills to create impactful solutions.</p>
 
-<p align="center"> 💻 Proficient in Java. Currently studying React and Spring Boot.</p>
+<p align="center"> 💻 Proficient in Java and Spring Boot. Currently studying Docker and Angular.</p>
 
 <p align="center"> 🚀 Always eager to learn and collaborate.</p>&nbsp;
 
