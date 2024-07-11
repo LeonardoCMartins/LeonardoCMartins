@@ -7,12 +7,6 @@
 
 <p align="center"> 🚀 Always eager to learn and collaborate.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=LeonardoCMartins&theme=dracula" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LeonardoCMartins&show_icons=true&theme=dracula&layout=compact" />
-</div>
-&nbsp;
-&nbsp;
 
 ## My Skills
 
@@ -24,8 +18,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Scrum](https://img.shields.io/badge/Scrum%20Alliance-009FDA.svg?style=for-the-badge&logo=Scrum-Alliance&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="330px" max-width="330px" width="330px" align="right" alt="Computador iuriCode">
 
 
 #### Secondary Stack:
@@ -43,6 +35,13 @@
 
 &nbsp;
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=LeonardoCMartins&theme=dracula" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LeonardoCMartins&show_icons=true&theme=dracula&layout=compact" />
+</div>
+
+&nbsp;
+
 ## Contacts:
 
 <div> 
@@ -51,7 +50,6 @@
 <a href="https://www.linkedin.com/in/leonardo-martins-77a94a311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
-&nbsp;&nbsp;
-
+&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
